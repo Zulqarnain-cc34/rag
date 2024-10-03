@@ -30,4 +30,4 @@ Factual, Analytical, Opinion and Contextual
     Performs retrieval based on the contextualized query.
     Ranks documents considering both relevance and user context.
     
-![Company Logo](/adaptive_retrieval.svg)
+![Company Logo](/images/adaptive_retrieval.svg)

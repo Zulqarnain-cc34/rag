@@ -29,3 +29,5 @@ Factual, Analytical, Opinion and Contextual
     Incorporates user-specific context into the query using an LLM.
     Performs retrieval based on the contextualized query.
     Ranks documents considering both relevance and user context.
+    
+![Company Logo](/adaptive_retrieval.svg)
